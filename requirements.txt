@@ -1,0 +1,4 @@
+openai-agents
+chainlit
+requests
+python-dotenv
